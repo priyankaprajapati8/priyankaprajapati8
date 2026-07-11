@@ -30,7 +30,11 @@ Turning Data into Insights 📊
 ║ Excel       ████████░░ 80%                          ║
 ║ Power BI    █████░░░░░ 50%                          ║
 ╚══════════════════════════════════════════════════════╝
+
 ```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankaprajapati8&show_icons=true&theme=tokyonight" />
+</p>
 
 - 🌱 I’m currently learning **sql,python,excel,power BI and data analytics**
 
