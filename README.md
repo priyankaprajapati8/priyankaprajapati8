@@ -11,11 +11,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyankaprajapati8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankaprajapati8&show_icons=true&theme=github_dark&cache_seconds=86400" />
 </p>
-
-
-
 ## ANALYTICS DASHBOARD
 ```text
 ╔══════════════════════════════════════════════════════╗
@@ -35,9 +32,7 @@
 ╚══════════════════════════════════════════════════════╝
 
 ```
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankaprajapati8&show_icons=true&theme=tokyonight" />
-</p>
+
 
 - 🌱 I’m currently learning **sql,python,excel,power BI and data analytics**
 
