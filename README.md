@@ -1,4 +1,15 @@
 ## Hi there 👋
+```text
+██████╗  █████╗ ████████╗ █████╗
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗
+██║  ██║███████║   ██║   ███████║
+██║  ██║██╔══██║   ██║   ██╔══██║
+██████╔╝██║  ██║   ██║   ██║  ██║
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+Turning Data into Insights 📊
+```
+
 
 <h1 align="center">Hi 👋, I'm Priyanak Prajapati</h1>
 <h3 align="center">from CURIOSITY to code ,from data to decisions</h3>
