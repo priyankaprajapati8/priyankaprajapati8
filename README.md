@@ -14,6 +14,25 @@ Turning Data into Insights 📊
 <h1 align="center">Hi 👋, I'm Priyanak Prajapati</h1>
 <h3 align="center">from CURIOSITY to code ,from data to decisions</h3>
 
+##ANALYTICS DASHBOARD
+```text
+╔══════════════════════════════════════════════════════╗
+║                 📊 ANALYTICS DASHBOARD              ║
+╠══════════════════════════════════════════════════════╣
+║ STATUS      ▸ 🟢 ONLINE                             ║
+║ ROLE        ▸ Aspiring Data Analyst                 ║
+║ FOCUS       ▸ SQL • Python • Excel • Power BI       ║
+║ MINDSET     ▸ Learn → Analyze → Improve             ║
+║ PROJECTS    ▸ Building Real-World Solutions         ║
+║ GOAL        ▸ Transform Data into Decisions         ║
+╠══════════════════════════════════════════════════════╣
+║ SQL         ████████░░ 80%                          ║
+║ Python      ██████░░░░ 60%                          ║
+║ Excel       ████████░░ 80%                          ║
+║ Power BI    █████░░░░░ 50%                          ║
+╚══════════════════════════════════════════════════════╝
+```
+
 - 🌱 I’m currently learning **sql,python,excel,power BI and data analytics**
 
 - 🤝 I’m looking for help with **power BI ,data visualization and advanced sql**
