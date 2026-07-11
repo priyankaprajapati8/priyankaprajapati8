@@ -1,9 +1,7 @@
-## Hi there 👋
-```text
 
 
-Turning Data into Insights 📊
-```
+
+## Turning Data into Insights 📊
 
 
 <h1 align="center">Hi 👋, I'm Priyanak Prajapati</h1>
@@ -12,10 +10,11 @@ Turning Data into Insights 📊
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankaprajapati8&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyankaprajapati8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
+
+
 
 ## ANALYTICS DASHBOARD
 ```text
