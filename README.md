@@ -1,8 +1,6 @@
 ## Hi there 👋
 ```text
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankaprajapati8&show_icons=true&theme=tokyonight" />
-</p>
+
 
 Turning Data into Insights 📊
 ```
@@ -13,6 +11,10 @@ Turning Data into Insights 📊
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankaprajapati8&show_icons=true&theme=tokyonight" />
 </p>
 
 ## ANALYTICS DASHBOARD
